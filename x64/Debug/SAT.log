@@ -1,0 +1,79 @@
+﻿  Collisions.cpp
+C:\gierki\2d\Projects\SAT\SAT\Collisions.h(20,2): warning C4091: 'static ': ignored on left of 'Collisions' when no variable is declared
+C:\gierki\2d\Projects\SAT\SAT\Collisions.cpp(122,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+C:\gierki\2d\Projects\SAT\SAT\Collisions.h(20,2): warning C4091: 'static ': ignored on left of 'Collisions' when no variable is declared
+C:\gierki\2d\Projects\SAT\SAT\main.cpp(16,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\gierki\2d\Projects\SAT\SAT\main.cpp(139,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\gierki\2d\Projects\SAT\SAT\main.cpp(139,46): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\gierki\2d\Projects\SAT\SAT\main.cpp(142,90): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\gierki\2d\Projects\SAT\SAT\main.cpp(142,65): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\gierki\2d\Projects\SAT\SAT\main.cpp(145,91): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\gierki\2d\Projects\SAT\SAT\main.cpp(145,66): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\gierki\2d\Projects\SAT\SAT\main.cpp(211,72): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\gierki\2d\Projects\SAT\SAT\main.cpp(211,47): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\gierki\2d\Projects\SAT\SAT\main.cpp(224,74): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\gierki\2d\Projects\SAT\SAT\main.cpp(224,49): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\gierki\2d\Projects\SAT\SAT\main.cpp(236,74): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\gierki\2d\Projects\SAT\SAT\main.cpp(236,49): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\gierki\2d\Projects\SAT\SAT\main.cpp(249,73): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\gierki\2d\Projects\SAT\SAT\main.cpp(249,48): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\gierki\2d\Projects\SAT\SAT\main.cpp(275,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  SAT.vcxproj -> C:\gierki\2d\Projects\SAT\SAT\x64\Debug\SAT.exe

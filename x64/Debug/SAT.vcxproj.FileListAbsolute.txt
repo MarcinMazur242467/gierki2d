@@ -1,0 +1,11 @@
+C:\gierki\2d\Projects\SAT\SAT\x64\Debug\SAT.vcxproj.CopyComplete
+C:\gierki\2d\Projects\SAT\SAT\x64\Debug\SAT.exe
+C:\gierki\2d\Projects\SAT\SAT\x64\Debug\sfml-graphics-d-2.dll
+C:\gierki\2d\Projects\SAT\SAT\x64\Debug\sfml-window-d-2.dll
+C:\gierki\2d\Projects\SAT\SAT\x64\Debug\sfml-system-d-2.dll
+C:\gierki\2d\Projects\SAT\SAT\x64\Debug\freetyped.dll
+C:\gierki\2d\Projects\SAT\SAT\x64\Debug\zlibd1.dll
+C:\gierki\2d\Projects\SAT\SAT\x64\Debug\bz2d.dll
+C:\gierki\2d\Projects\SAT\SAT\x64\Debug\libpng16d.dll
+C:\gierki\2d\Projects\SAT\SAT\x64\Debug\brotlidec.dll
+C:\gierki\2d\Projects\SAT\SAT\x64\Debug\brotlicommon.dll
